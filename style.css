@@ -1,0 +1,21 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+}
+
+p{
+    font-family: "Lucida Handwriting";
+}
+.purple-color{
+    color: purple;
+}
+
+section{
+    display: flex;
+}
+
+.equal-width{
+    width: 50%;
+}
+equal-width img{
+    width: 5%;
+}
