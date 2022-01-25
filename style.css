@@ -159,12 +159,10 @@ h{
     text-decoration: none;
   }
   
-  /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.7;
   }
   
-  /* Set a specific color for each brand */
   
   .fa-linkedin {
     background: #007bb5;
@@ -197,18 +195,18 @@ h{
     color: white;
   }
 
-  .fotter-class{
-      background-color: rgb(46, 0, 0);
-      margin-top: 10%;
-      text-align: center;
-      font-size: 40px;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
+.fotter-class{
+    background-color: rgb(46, 0, 0);
+    margin-top: 10%;
+    text-align: center;
+}
 
-  .footer-all-color{
-      color: white;
-  }
+.footer-all-color{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 
-  .year-color{
-      color: wheat;
-  }
+.year-color{
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
