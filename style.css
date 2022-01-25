@@ -1,9 +1,11 @@
 body{
     font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
 }
 
 p{
     font-family: "Lucida Handwriting";
+    font-size: 17px;
 }
 .purple-color{
     color: purple;
@@ -25,7 +27,7 @@ section{
 .LinkedIn-button{
     text-decoration: none;
     text-shadow: 2%;
-    background-color: rgb(22, 59, 59);
+    background-image: linear-gradient(rgb(24, 9, 17), rgb(12, 119, 83));
     padding: 10px 45px;
     border-radius: 7px;
 }
@@ -36,4 +38,7 @@ section{
 
 .White-color{
     color:floralwhite;
+}
+.left-border{
+    border: firebrick;
 }
