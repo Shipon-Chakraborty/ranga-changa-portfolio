@@ -68,17 +68,21 @@ h{
 .resulotion-package{
     display: flex;
     justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
 
 }
 
 .equal-width2{
     width: 33%;
     padding: 1%;
-    background-color: burlywood;
+    background-color: rgb(252, 169, 138);
     border-radius: 10px;
     box-shadow:5px 5px 5px #000;
     -webkit-box-shadow:5px 5px 5px #000;
     -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .equal-width3{
@@ -89,14 +93,40 @@ h{
     box-shadow:5px 5px 5px #000;
     -webkit-box-shadow:5px 5px 5px #000;
     -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+    margin-left: 2%;
+    margin-right: 2%;
+
 }
 
 .equal-width4{
     width: 33%;
     padding: 1%;
-    background-color: lightskyblue;
+    background-color: rgb(187, 229, 255);
     border-radius: 10px;
     box-shadow:5px 5px 5px #000;
     -webkit-box-shadow:5px 5px 5px #000;
     -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.for-illustration{
+    width: 40%;
+    align-items: center;
+}
+
+.Facebook-button{
+    text-decoration: none;
+    text-shadow: 2%;
+    background-image: linear-gradient(rgb(24, 9, 17), rgb(12, 119, 83));
+    padding: 10px 45px;
+    border-radius: 7px;
+}
+
+.Facebook-button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flexibility-package{
+    display: flex;
 }
