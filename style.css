@@ -30,6 +30,7 @@ p{
 
 .equal-width img{
     width: 80%;
+    border-radius: 10px;
 }
 
 .LinkedIn-button{
@@ -115,18 +116,99 @@ h{
     align-items: center;
 }
 
-.Facebook-button{
-    text-decoration: none;
-    text-shadow: 2%;
-    background-image: linear-gradient(rgb(24, 9, 17), rgb(12, 119, 83));
-    padding: 10px 45px;
-    border-radius: 7px;
-}
-
-.Facebook-button{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.flexibility-package{
+.flexibility-package2{
     display: flex;
+    margin-top: 30px;
 }
+
+.equal-equal-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.equal-equal-width img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.flexibility-package3{
+    display: flex;
+    margin-top: 30px;
+}
+
+.equal-equal-width2{
+    width: 50%;
+    padding: 5%;
+}
+
+.equal-equal-width2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.social-media{
+    align-items: center;
+    margin-left: 30%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+ 
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+
+  .fotter-class{
+      background-color: rgb(46, 0, 0);
+      margin-top: 10%;
+      text-align: center;
+      font-size: 40px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .footer-all-color{
+      color: white;
+  }
+
+  .year-color{
+      color: wheat;
+  }
