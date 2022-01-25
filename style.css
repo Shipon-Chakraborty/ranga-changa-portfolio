@@ -1,7 +1,7 @@
 body{
     font-family: 'Architects Daughter', cursive;
     font-size: 25px;
-    margin: 50px 50px 50px 50px;
+    margin: 0px;
 }
 h1{
     font-size: 35px;
@@ -71,13 +71,15 @@ h{
     justify-content: space-between;
     margin-left: 5%;
     margin-right: 5%;
+    padding: 5%;
+    
 
 }
 
 .equal-width2{
     width: 33%;
     padding: 1%;
-    background-color: rgb(252, 169, 138);
+    background-color: rgba(252, 168, 138, 0.5);
     border-radius: 10px;
     box-shadow:5px 5px 5px #000;
     -webkit-box-shadow:5px 5px 5px #000;
@@ -148,15 +150,17 @@ h{
 
 .social-media{
     align-items: center;
-    margin-left: 30%;
+    margin-left: 35%;
+    margin-bottom: 10%;
 }
 
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
+    border-radius: 50%;
   }
   
   .fa:hover {
@@ -167,6 +171,7 @@ h{
   .fa-linkedin {
     background: #007bb5;
     color: white;
+    
   }
 
   .fa-facebook {
@@ -196,17 +201,33 @@ h{
   }
 
 .fotter-class{
-    background-color: rgb(46, 0, 0);
+    /* background-color: rgba(0, 217, 255, 0.384);
+    width: 100%;
+    fill: 100%;
     margin-top: 10%;
+    text-align: center; */
+
+    
+    top: 90%; 
+    left: 0%; 
+    right: 0; 
+    bottom: 0;
+    background-color: rgba(0, 217, 255, 0.384); 
+    border: solid black; 
+    border-width: 3px; 
     text-align: center;
+    
+    
+    
 }
 
 .footer-all-color{
-    color: white;
+    color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 .year-color{
-    color: wheat;
+    color:tomato;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
