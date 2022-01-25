@@ -89,4 +89,14 @@ h{
     box-shadow:5px 5px 5px #000;
     -webkit-box-shadow:5px 5px 5px #000;
     -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+}
 
+.equal-width4{
+    width: 33%;
+    padding: 1%;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px #000;
+    -webkit-box-shadow:5px 5px 5px #000;
+    -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+}
