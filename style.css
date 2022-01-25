@@ -1,6 +1,14 @@
 body{
     font-family: 'Architects Daughter', cursive;
     font-size: 25px;
+    margin: 50px 50px 50px 50px;
+}
+h1{
+    font-size: 35px;
+}
+
+h2{
+    font-size: 25px;
 }
 
 p{
@@ -11,7 +19,7 @@ p{
     color: purple;
 }
 
-section{
+.flexibility-package{
     display: flex;
 }
 
@@ -39,6 +47,46 @@ section{
 .White-color{
     color:floralwhite;
 }
-.left-border{
+#left-border{
+    border-left: 3px dashed firebrick;
+    padding-left: 10px;
+    border-radius: 2px;
+}
+
+h{
     border: firebrick;
 }
+
+.align-middle{
+    text-align: center;
+}
+
+.colour_change{
+    color: rgb(172, 34, 0);
+}
+
+.resulotion-package{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.equal-width2{
+    width: 33%;
+    padding: 1%;
+    background-color: burlywood;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px #000;
+    -webkit-box-shadow:5px 5px 5px #000;
+    -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+}
+
+.equal-width3{
+    width: 33%;
+    padding: 1%;
+    background-color: khaki;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px #000;
+    -webkit-box-shadow:5px 5px 5px #000;
+    -moz-box-shadow: 5px 5px 5px rgb(59, 0, 0);
+
